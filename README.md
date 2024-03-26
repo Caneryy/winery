@@ -1,4 +1,4 @@
-git pull https://github.com/Caneryy/winery
+git clone https://github.com/Caneryy/winery
 
 cd winery
 
