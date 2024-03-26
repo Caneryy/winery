@@ -1,10 +1,7 @@
 ## Download Repo
 ```
 git clone https://github.com/Caneryy/winery
-
 cd winery
-
-
 ```
 ## Start
 ```
